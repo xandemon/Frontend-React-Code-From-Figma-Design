@@ -4,7 +4,7 @@ import ClassAssignments from "./pages/ClassAssignments";
 
 function App() {
   return (
-    <div className="flex justify-center items-center m-10">
+    <div className="flex justify-center items-center">
       <ClassAssignments />
     </div>
   );
