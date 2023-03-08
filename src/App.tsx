@@ -1,10 +1,10 @@
 import React from "react";
-import ClassAssignments1 from "./pages/ClassAssignments1";
+import ClassAssignments from "./pages/ClassAssignments";
 
 function App() {
   return (
     <>
-      <ClassAssignments1 />
+      <ClassAssignments />
     </>
   );
 }

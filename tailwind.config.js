@@ -12,7 +12,7 @@ module.exports = {
         "paradise-pink": "#EA526F",
       },
       boxShadow: {
-        "download-file-shadow":
+        "custom-box":
           "2px 1px 1px rgba(0, 0, 0, 0.01), 1px 1px 1px rgba(0, 0, 0, 0.05), 0px 0px 1px rgba(0, 0, 0, 0.09), 0px 0px 0px rgba(0, 0, 0, 0.1), 0px 0px 0px rgba(0, 0, 0, 0.1)",
         "avatar-shadow":
           "0px 0px 0px 1px rgba(24, 24, 27, 0.05), 0px 10px 15px -3px rgba(39, 39, 42, 0.05), 0px 4px 6px -4px rgba(39, 39, 42, 0.05)",

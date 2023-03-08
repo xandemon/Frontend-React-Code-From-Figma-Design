@@ -4,7 +4,7 @@ import { HiDownload } from "react-icons/hi";
 
 const DownloadFile = () => {
   return (
-    <div className="flex items-center justify-between w-[348px] h-16 pl-2 shadow-download-file-shadow rounded-lg">
+    <div className="flex items-center justify-between w-[348px] h-16 pl-2 shadow-custom-box rounded-lg">
       <div className="flex items-center gap-4">
         <img src={pptIcon} alt="ppt icon" className=" w-10 h-10" />
         <div className="flex flex-col justify-center">
