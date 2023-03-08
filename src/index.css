@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Urbanist&display=swap");
+
+@font-face {
+  font-family: "Horndon Becker";
+  src: url(assets/horndon_becker.ttf);
+}
